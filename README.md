@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ssobhysayed7
+- 🌱 I’m currently learning Backend Development & Software Development
+- 📫 How to reach me ssobhysayed7@gmail.com
