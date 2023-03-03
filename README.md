@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ssobhysayed7
-- 🌱 I’m currently learning Backend Development & Software Development
-- 📫 How to reach me ssobhysayed7@gmail.com
+- 👋 Hi, I’m SOBHY EL-SAYED ANWAR
+- 🌱 I’m currently learning UI/UX & Software Development
+- 📫 How to reach me ssobhysayed7@gmail.com OR sobhysayed235@yahoo.com
